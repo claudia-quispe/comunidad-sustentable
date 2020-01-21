@@ -1,0 +1,27 @@
+.image {
+    height: 130px;
+    margin-left:40px;
+}
+.semilla {
+    height: 800px;
+}
+blockquote {
+    margin-top: 100px;
+}
+.nav-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+}
+.mb-0 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    width: 700px;
+    font-size: 16px;
+}
+.col-md-6 {
+    margin-top: 40px;
+}
+.mision {
+    margin: 100px auto;
+    display: inline-block;
+}
