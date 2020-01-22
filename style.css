@@ -12,16 +12,31 @@ blockquote {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: gray;
 }
+
+.texto {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: gray;
+    font-size: 16px;
+    padding: 50px;
+
+}
 .mb-0 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: gray;
-    width: 700px;
-    font-size: 16px;
+    width: 400px;
+    font-size: 14px;
+    text-align: center;
+    
 }
 .col-md-6 {
     margin-top: 40px;
+    
 }
 .mision {
-    margin: 100px auto;
     display: inline-block;
+}
+.metodo {
+    width: 600px;
+
 }
